@@ -1,0 +1,64 @@
+services:
+  # Dịch vụ Backend (Laravel)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: myapp-backend
+    volumes:
+      - ./backend:/var/www
+    networks:
+      - myapp-network
+
+  # Dịch vụ Frontend (Next.js)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: myapp-frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    networks:
+      - myapp-network
+
+  # Dịch vụ Web Server (Nginx) - PHIÊN BẢN SỬA LỖI
+  nginx:
+    image: nginx:alpine # Dùng image gốc, không cần build phức tạp
+    container_name: myapp-nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./backend:/var/www # Cho Nginx thấy code Laravel
+      # DÒNG QUAN TRỌNG NHẤT: Gắn trực tiếp file config của bạn vào container
+      - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      - myapp-network
+
+  # Dịch vụ Database (MySQL)
+  db:
+    image: mysql:8.0
+    container_name: myapp-db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: my_database
+      MYSQL_ROOT_PASSWORD: root_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+    networks:
+      - myapp-network
+
+networks:
+  myapp-network:
+    driver: bridge
+
+volumes:
+  db-data:
+    driver: local
