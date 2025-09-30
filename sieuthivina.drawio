@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4866" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3418" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4294,18 +4294,6 @@
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-735" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Siêu Thị&amp;nbsp; Vina(lv3)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
           <mxGeometry x="45" y="10" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-736" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;entryX=-0.007;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="110.64249820531222" as="sourcePoint" />
-            <mxPoint x="419.2999999999997" y="118.10000000000014" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-737" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;exitX=-0.003;exitY=0.696;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340.3599999999997" y="95.20000000000005" as="sourcePoint" />
-            <mxPoint x="390" y="39.98000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-738" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thống kê doanh thu theo biến thể sản phẩm, theo danh mục, theo khách hàng, theo thời gian&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
           <mxGeometry x="470" y="860" width="130" height="70" as="geometry" />
