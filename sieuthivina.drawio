@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4866" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3853" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3918,7 +3918,7 @@
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-667" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quản lý loại sản phẩm&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1900" y="1290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-668" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quản lý người bán hàng&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Xi22DVcg1T2MeJ7R95h-668" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Quản lý shop&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="1230" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-669" value="&lt;font size=&quot;1&quot;&gt;Thêm sữa xóa, tìm kiếm phân trang&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
@@ -3928,7 +3928,7 @@
           <mxGeometry x="-2080" y="1500" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-671" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;Quản trị viên&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="1580" width="20" height="40" as="geometry" />
+          <mxGeometry x="-1640" y="1620" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-672" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6Xi22DVcg1T2MeJ7R95h-645" target="6Xi22DVcg1T2MeJ7R95h-643">
           <mxGeometry relative="1" as="geometry" />
@@ -4194,7 +4194,7 @@
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-721" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-720">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-722" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6Xi22DVcg1T2MeJ7R95h-668" target="6Xi22DVcg1T2MeJ7R95h-671">
+        <mxCell id="6Xi22DVcg1T2MeJ7R95h-722" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6Xi22DVcg1T2MeJ7R95h-668" target="6Xi22DVcg1T2MeJ7R95h-741">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1570" y="1280" as="sourcePoint" />
             <mxPoint x="-1730" y="1453" as="targetPoint" />
@@ -4313,13 +4313,13 @@
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-739" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thêm xóa, sửa khuyến mãi, tìm kiếm phân trang&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
           <mxGeometry x="310" y="910" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-741" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Người bán hàng(seller)&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="6Xi22DVcg1T2MeJ7R95h-741" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Người bán hàng&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;(seller)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="1490" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-743" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="6Xi22DVcg1T2MeJ7R95h-671" target="6Xi22DVcg1T2MeJ7R95h-741">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1560" y="1584" />
+              <mxPoint x="-1560" y="1624" />
               <mxPoint x="-1560" y="1494" />
             </Array>
           </mxGeometry>
