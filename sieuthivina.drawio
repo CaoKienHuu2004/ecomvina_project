@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3418" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4634" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4300,6 +4300,9 @@
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-739" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thêm xóa, sửa khuyến mãi, tìm kiếm phân trang&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
           <mxGeometry x="310" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Xi22DVcg1T2MeJ7R95h-747" value="đang load, test, fix giúp nhé mấy friends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-734">
+          <mxGeometry x="45" y="40" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-741" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Người bán hàng&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;(seller)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="1490" width="20" height="40" as="geometry" />
