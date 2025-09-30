@@ -2575,7 +2575,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WAmaB8aWcI7g4BZbhEoF-7" value="giayphep_kinhdoanh&amp;nbsp;&lt;div&gt;(VARCHAR)&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="WAmaB8aWcI7g4BZbhEoF-5">
+        <mxCell id="WAmaB8aWcI7g4BZbhEoF-7" value="giayphep_kinhdoanh&amp;nbsp;&lt;div&gt;(varchar)&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="WAmaB8aWcI7g4BZbhEoF-5">
           <mxGeometry x="60" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
