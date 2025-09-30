@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4866" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="6718" dy="3208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2989,8 +2989,8 @@
             <mxRectangle x="-2440" y="30" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mwba6yLyyXKaufg7ifnB-180" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Siêu Thị&amp;nbsp; Vina&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Mwba6yLyyXKaufg7ifnB-178" vertex="1">
-          <mxGeometry x="5" y="10" width="130" height="30" as="geometry" />
+        <mxCell id="Mwba6yLyyXKaufg7ifnB-180" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Siêu Thị&amp;nbsp; Vina(base)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Mwba6yLyyXKaufg7ifnB-178" vertex="1">
+          <mxGeometry x="10" y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mwba6yLyyXKaufg7ifnB-199" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Xem chi tiết sản phẩm&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="Mwba6yLyyXKaufg7ifnB-178" vertex="1">
           <mxGeometry x="90" y="235" width="100" height="60" as="geometry" />
@@ -3825,8 +3825,8 @@
             <mxRectangle x="-2440" y="30" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Xi22DVcg1T2MeJ7R95h-582" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Siêu Thị&amp;nbsp; Vina&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-581">
-          <mxGeometry x="5" y="10" width="130" height="30" as="geometry" />
+        <mxCell id="6Xi22DVcg1T2MeJ7R95h-582" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Siêu Thị&amp;nbsp; Vina(base lv2)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6Xi22DVcg1T2MeJ7R95h-581">
+          <mxGeometry x="25" y="10" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Xi22DVcg1T2MeJ7R95h-633" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;entryX=-0.007;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6Xi22DVcg1T2MeJ7R95h-581">
           <mxGeometry relative="1" as="geometry">
