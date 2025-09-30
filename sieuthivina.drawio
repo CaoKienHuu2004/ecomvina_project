@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3322" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3542" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2498,7 +2498,7 @@
         <mxCell id="YIg9jNqMkCVF1gFv5jWo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="OFfg4Ifkbmo_WRJsHrhS-559" target="OFfg4Ifkbmo_WRJsHrhS-526" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIg9jNqMkCVF1gFv5jWo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="OFfg4Ifkbmo_WRJsHrhS-597" target="OFfg4Ifkbmo_WRJsHrhS-520" edge="1">
+        <mxCell id="YIg9jNqMkCVF1gFv5jWo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="OFfg4Ifkbmo_WRJsHrhS-597" target="OFfg4Ifkbmo_WRJsHrhS-520" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YIg9jNqMkCVF1gFv5jWo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" parent="1" source="OFfg4Ifkbmo_WRJsHrhS-193" target="OFfg4Ifkbmo_WRJsHrhS-393" edge="1">
@@ -2588,7 +2588,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIg9jNqMkCVF1gFv5jWo-68" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;theodoi&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-66" vertex="1">
+        <mxCell id="YIg9jNqMkCVF1gFv5jWo-68" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;theodoi(int)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-66" vertex="1">
           <mxGeometry x="60" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2601,7 +2601,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIg9jNqMkCVF1gFv5jWo-71" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;luotban&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-69" vertex="1">
+        <mxCell id="YIg9jNqMkCVF1gFv5jWo-71" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;luotban(int)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-69" vertex="1">
           <mxGeometry x="60" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2614,7 +2614,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIg9jNqMkCVF1gFv5jWo-100" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;logo&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-98" vertex="1">
+        <mxCell id="YIg9jNqMkCVF1gFv5jWo-100" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;logo(varchar)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="YIg9jNqMkCVF1gFv5jWo-98" vertex="1">
           <mxGeometry x="60" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
