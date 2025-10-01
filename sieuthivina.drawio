@@ -689,7 +689,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WAmaB8aWcI7g4BZbhEoF-188" value="id_danhmuc(int)(U)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-186" vertex="1">
+        <mxCell id="WAmaB8aWcI7g4BZbhEoF-188" value="id_danhmuc(int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-186" vertex="1">
           <mxGeometry x="60" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -702,7 +702,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WAmaB8aWcI7g4BZbhEoF-191" value="id_sanpham(int)(U)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-189" vertex="1">
+        <mxCell id="WAmaB8aWcI7g4BZbhEoF-191" value="id_sanpham(int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-189" vertex="1">
           <mxGeometry x="60" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
