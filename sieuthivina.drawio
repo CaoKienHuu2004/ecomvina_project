@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2534" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3595" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1162,7 +1162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WAmaB8aWcI7g4BZbhEoF-307" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1110" y="1630" width="200" height="190" as="geometry" />
+          <mxGeometry x="1095" y="1595" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="WAmaB8aWcI7g4BZbhEoF-308" value="danh_muc" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-307" vertex="1">
           <mxGeometry width="200" height="240" as="geometry" />
@@ -4532,7 +4532,7 @@
               <mxPoint x="2100" y="1592" />
               <mxPoint x="2100" y="1570" />
               <mxPoint x="1410" y="1570" />
-              <mxPoint x="1410" y="1675" />
+              <mxPoint x="1410" y="1640" />
             </Array>
           </mxGeometry>
         </mxCell>
