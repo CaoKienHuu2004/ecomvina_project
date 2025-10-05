@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2036" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2692" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3229,8 +3229,8 @@
         <mxCell id="WAmaB8aWcI7g4BZbhEoF-773" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-772" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAmaB8aWcI7g4BZbhEoF-774" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thêm, sửa, xóa, tìm kiếm,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;phân trang&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-727" vertex="1">
-          <mxGeometry x="220" y="80" width="120" height="50" as="geometry" />
+        <mxCell id="WAmaB8aWcI7g4BZbhEoF-774" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thêm, sửa, xóa&amp;nbsp;&lt;span style=&quot;font-size: x-small;&quot;&gt;mềm&lt;/span&gt;, tìm kiếm,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;phân trang&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFFFFF;shadow=1;size=20;pointerEvents=1;rounded=1;" parent="WAmaB8aWcI7g4BZbhEoF-727" vertex="1">
+          <mxGeometry x="200" y="80" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WAmaB8aWcI7g4BZbhEoF-775" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.401;exitY=-0.041;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WAmaB8aWcI7g4BZbhEoF-727" source="WAmaB8aWcI7g4BZbhEoF-774" target="WAmaB8aWcI7g4BZbhEoF-755" edge="1">
           <mxGeometry relative="1" as="geometry">
