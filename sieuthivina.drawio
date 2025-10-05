@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2797" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4016" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4729,7 +4729,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P-IuISJI7mWnfWgu_dj--783" value="id_nguoidung" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;" parent="P-IuISJI7mWnfWgu_dj--781" vertex="1">
+        <mxCell id="P-IuISJI7mWnfWgu_dj--783" value="id_cuahang" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;" parent="P-IuISJI7mWnfWgu_dj--781" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -8343,12 +8343,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNxvjS7s7bv2J1XMRhtX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="P-IuISJI7mWnfWgu_dj--781" target="P-IuISJI7mWnfWgu_dj--1064">
+        <mxCell id="JNxvjS7s7bv2J1XMRhtX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="P-IuISJI7mWnfWgu_dj--781" target="P-IuISJI7mWnfWgu_dj--1325">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1030" y="5855" />
-              <mxPoint x="1030" y="5750" />
-              <mxPoint x="908" y="5750" />
+              <mxPoint x="955" y="5855" />
+              <mxPoint x="955" y="6310" />
+              <mxPoint x="660" y="6310" />
+              <mxPoint x="660" y="6485" />
             </Array>
           </mxGeometry>
         </mxCell>
