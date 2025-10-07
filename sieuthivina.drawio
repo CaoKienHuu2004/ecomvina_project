@@ -4543,7 +4543,7 @@
               <mxPoint x="1280" y="5535" />
               <mxPoint x="1280" y="5580" />
               <mxPoint x="1605" y="5580" />
-              <mxPoint x="1605" y="4955" />
+              <mxPoint x="1605" y="4970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4710,7 +4710,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1605" y="5709" />
-              <mxPoint x="1605" y="4955" />
+              <mxPoint x="1605" y="4950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5923,7 +5923,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1625" y="4715" />
-              <mxPoint x="1625" y="4950" />
+              <mxPoint x="1625" y="4940" />
             </Array>
           </mxGeometry>
         </mxCell>
