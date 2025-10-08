@@ -3814,7 +3814,7 @@
             <mxRectangle width="45" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oR0GCmUJMk4hQNnssZSG-1415" value="id_nguoidung&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;bigint&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;)(N)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;" parent="oR0GCmUJMk4hQNnssZSG-1413" vertex="1">
+        <mxCell id="oR0GCmUJMk4hQNnssZSG-1415" value="id_nguoidung&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;bigint&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;" parent="oR0GCmUJMk4hQNnssZSG-1413" vertex="1">
           <mxGeometry x="45" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3827,7 +3827,7 @@
             <mxRectangle width="45" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oR0GCmUJMk4hQNnssZSG-1418" value="id_sanpham(bigint)(N)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;" parent="oR0GCmUJMk4hQNnssZSG-1416" vertex="1">
+        <mxCell id="oR0GCmUJMk4hQNnssZSG-1418" value="id_sanpham(bigint)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;" parent="oR0GCmUJMk4hQNnssZSG-1416" vertex="1">
           <mxGeometry x="45" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4150,7 +4150,7 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oR0GCmUJMk4hQNnssZSG-1522" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToOne;startFill=0;endArrow=ERmany;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oR0GCmUJMk4hQNnssZSG-1305" target="oR0GCmUJMk4hQNnssZSG-1416" edge="1">
+        <mxCell id="oR0GCmUJMk4hQNnssZSG-1522" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oR0GCmUJMk4hQNnssZSG-1305" target="oR0GCmUJMk4hQNnssZSG-1416" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1580" y="4965" />
@@ -4333,7 +4333,7 @@
             <mxRectangle width="215" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oR0GCmUJMk4hQNnssZSG-1563" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="oR0GCmUJMk4hQNnssZSG-1413" target="oR0GCmUJMk4hQNnssZSG-1524" edge="1">
+        <mxCell id="oR0GCmUJMk4hQNnssZSG-1563" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="oR0GCmUJMk4hQNnssZSG-1413" target="oR0GCmUJMk4hQNnssZSG-1524" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="705" y="5470" as="sourcePoint" />
             <mxPoint x="635" y="5750" as="targetPoint" />
