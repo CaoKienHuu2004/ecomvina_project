@@ -17751,7 +17751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IxpQIqn521-nfcLzetj8" name="Trang-5">
-    <mxGraphModel dx="1155" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="90" dy="45" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20370,7 +20370,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yC7U6CkLxKoqiayzbYsG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToOne;startFill=0;" edge="1" parent="1" source="X97Rx7-ls1CAOavWIMAJ-442" target="X97Rx7-ls1CAOavWIMAJ-229">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1158" y="1440" />
+              <mxPoint x="1158" y="1410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yC7U6CkLxKoqiayzbYsG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="X97Rx7-ls1CAOavWIMAJ-39" target="X97Rx7-ls1CAOavWIMAJ-439">
           <mxGeometry relative="1" as="geometry" />
@@ -20433,6 +20438,9 @@
               <mxPoint x="860" y="1400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yC7U6CkLxKoqiayzbYsG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="X97Rx7-ls1CAOavWIMAJ-331" target="X97Rx7-ls1CAOavWIMAJ-229">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
