@@ -11908,7 +11908,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dsC5iCQgLAB8AmDG0ew_" name="Trang-3">
-    <mxGraphModel dx="674" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12108,7 +12108,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0xWlMgpm69EbuBz7Vpmg-47" value="id_cuahang(N)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;" parent="0xWlMgpm69EbuBz7Vpmg-45" vertex="1">
+        <mxCell id="0xWlMgpm69EbuBz7Vpmg-47" value="id_cuahang" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;" parent="0xWlMgpm69EbuBz7Vpmg-45" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -12991,7 +12991,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0xWlMgpm69EbuBz7Vpmg-252" value="vaitro(enum)[user,admin,seller]" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=inherit;rounded=1;" parent="0xWlMgpm69EbuBz7Vpmg-250" vertex="1">
+        <mxCell id="0xWlMgpm69EbuBz7Vpmg-252" value="vaitro" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=inherit;rounded=1;" parent="0xWlMgpm69EbuBz7Vpmg-250" vertex="1">
           <mxGeometry x="30" width="215" height="30" as="geometry">
             <mxRectangle width="215" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -14808,7 +14808,7 @@
         <mxCell id="0xWlMgpm69EbuBz7Vpmg-661" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="0xWlMgpm69EbuBz7Vpmg-354" target="0xWlMgpm69EbuBz7Vpmg-385" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0xWlMgpm69EbuBz7Vpmg-662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="0xWlMgpm69EbuBz7Vpmg-45" target="0xWlMgpm69EbuBz7Vpmg-483" edge="1">
+        <mxCell id="0xWlMgpm69EbuBz7Vpmg-662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="0xWlMgpm69EbuBz7Vpmg-45" target="0xWlMgpm69EbuBz7Vpmg-483" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1840" y="745" />
