@@ -17751,7 +17751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IxpQIqn521-nfcLzetj8" name="Trang-5">
-    <mxGraphModel dx="3033" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20517,6 +20517,14 @@
             <Array as="points">
               <mxPoint x="1495" y="2155" />
               <mxPoint x="1495" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yC7U6CkLxKoqiayzbYsG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="X97Rx7-ls1CAOavWIMAJ-8" target="X97Rx7-ls1CAOavWIMAJ-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="2185" />
+              <mxPoint x="2120" y="1085" />
             </Array>
           </mxGeometry>
         </mxCell>
