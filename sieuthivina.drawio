@@ -3548,7 +3548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="1661" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4293" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3582,7 +3582,7 @@
         <mxCell id="Qd59bnDsO3HeRL2QLu83-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="oTyJFMXPl2CHeaA-hHHu-3" target="Qd59bnDsO3HeRL2QLu83-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d6a-q9DuogzNjkzZ5nZV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oTyJFMXPl2CHeaA-hHHu-3" target="oCUN7LAmR5rrbrn8Ng5r-3">
+        <mxCell id="d6a-q9DuogzNjkzZ5nZV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="oTyJFMXPl2CHeaA-hHHu-3" target="oCUN7LAmR5rrbrn8Ng5r-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oTyJFMXPl2CHeaA-hHHu-3" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
@@ -3590,9 +3590,6 @@
         </mxCell>
         <mxCell id="oTyJFMXPl2CHeaA-hHHu-4" value="Tìm kiếm sản phẩm" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="-80" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bB4wg15Kl30TLKmN-io0-1" value="&lt;b&gt;sieuthivina.com&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bB4wg15Kl30TLKmN-io0-2" value="Xem chi tiết sản phẩm" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="160" height="80" as="geometry" />
@@ -3743,6 +3740,17 @@
         </mxCell>
         <mxCell id="Qd59bnDsO3HeRL2QLu83-1" value="Quản lý tài khoản" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="1240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aOmvAA7ryTLkOCwz1_p--1" value="" style="swimlane;startSize=0;fontStyle=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-180" width="1110" height="1660" as="geometry">
+            <mxRectangle x="-2440" y="30" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOmvAA7ryTLkOCwz1_p--2" value="&lt;b style=&quot;font-size: 14px; text-wrap-mode: wrap;&quot;&gt;sieuthivina.com&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+          <mxGeometry x="60" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aOmvAA7ryTLkOCwz1_p--5" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="560" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -21499,7 +21507,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IxpQIqn521-nfcLzetj8" name="Trang-5">
-    <mxGraphModel dx="899" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
