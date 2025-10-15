@@ -3548,7 +3548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="4293" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3523" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3643,9 +3643,6 @@
         </mxCell>
         <mxCell id="oCUN7LAmR5rrbrn8Ng5r-6" value="Tra cứu đơn hàng" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="1000" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oCUN7LAmR5rrbrn8Ng5r-8" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="840" y="840" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pF75sRZbKj0GbbE6W6mi-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startSize=8;endSize=8;endArrow=classicThin;endFill=1;fontSize=15;" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="oCUN7LAmR5rrbrn8Ng5r-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3749,8 +3746,18 @@
         <mxCell id="aOmvAA7ryTLkOCwz1_p--2" value="&lt;b style=&quot;font-size: 14px; text-wrap-mode: wrap;&quot;&gt;sieuthivina.com&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="60" y="10" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oCUN7LAmR5rrbrn8Ng5r-8" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="aOmvAA7ryTLkOCwz1_p--1" vertex="1">
+          <mxGeometry x="90" y="1540" width="160" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="aOmvAA7ryTLkOCwz1_p--5" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1300" y="560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIKaIjTqBJhCaRAHsAH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.022;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-8" target="oTyJFMXPl2CHeaA-hHHu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
