@@ -3548,7 +3548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="2677" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="1321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3751,8 +3751,8 @@
         <mxCell id="WTGKeooMiYVDg_3MTcG6-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="aOmvAA7ryTLkOCwz1_p--1" source="Qd59bnDsO3HeRL2QLu83-1" target="WTGKeooMiYVDg_3MTcG6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WTGKeooMiYVDg_3MTcG6-32" value="Tìm kiếm, lọc sản phẩm theo danh mục, thương hiệu" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
-          <mxGeometry x="440" y="540" width="160" height="80" as="geometry" />
+        <mxCell id="WTGKeooMiYVDg_3MTcG6-32" value="Thêm, sửa số lượng, xóa sản phẩm trong giỏ hàng" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+          <mxGeometry x="280" y="620" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JmkoVvxqO1XfpRYb6TH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" parent="1" source="oTyJFMXPl2CHeaA-hHHu-3" target="oTyJFMXPl2CHeaA-hHHu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3834,12 +3834,14 @@
         </mxCell>
         <mxCell id="pF75sRZbKj0GbbE6W6mi-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endSize=8;endArrow=none;endFill=0;fontSize=15;startArrow=classicThin;startFill=1;" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="oCUN7LAmR5rrbrn8Ng5r-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="560" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pF75sRZbKj0GbbE6W6mi-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="pF75sRZbKj0GbbE6W6mi-13" vertex="1" connectable="0">
           <mxGeometry x="0.0058" y="-1" relative="1" as="geometry">
-            <mxPoint x="-20" y="-19" as="offset" />
+            <mxPoint x="-88" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pF75sRZbKj0GbbE6W6mi-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.03;exitY=0.296;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endSize=8;endArrow=none;endFill=0;fontSize=15;startArrow=classicThin;startFill=1;exitPerimeter=0;" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="bB4wg15Kl30TLKmN-io0-3" edge="1">
@@ -3860,10 +3862,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pF75sRZbKj0GbbE6W6mi-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.249;exitY=0.092;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;endSize=8;fontSize=15;startArrow=classicThin;startFill=1;exitPerimeter=0;" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="oCUN7LAmR5rrbrn8Ng5r-5" edge="1">
+        <mxCell id="pF75sRZbKj0GbbE6W6mi-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.36;exitY=0.027;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;endSize=8;fontSize=15;startArrow=classicThin;startFill=1;exitPerimeter=0;" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="oCUN7LAmR5rrbrn8Ng5r-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="280" />
+              <mxPoint x="560" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
