@@ -3752,7 +3752,7 @@
         <mxCell id="wVCNAQB2MgeCCglykPh3-2" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="1360" y="100" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wVCNAQB2MgeCCglykPh3-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+        <mxCell id="wVCNAQB2MgeCCglykPh3-3" value="Quản lý thông báo" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="1360" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wVCNAQB2MgeCCglykPh3-4" value="Quản lý danh mục" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
@@ -3920,6 +3920,18 @@
         </mxCell>
         <mxCell id="kRNrXmWczBaX0dPVNwXD-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1320" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="r8Wa4QFw2mN8RTsUsQvE-1" value="" style="endArrow=classic;html=1;rounded=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="wVCNAQB2MgeCCglykPh3-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="300" as="sourcePoint" />
+            <mxPoint x="1580" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8Wa4QFw2mN8RTsUsQvE-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1320" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
