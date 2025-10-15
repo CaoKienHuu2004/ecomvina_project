@@ -3548,7 +3548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="4293" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3253" dy="2377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3767,7 +3767,7 @@
         <mxCell id="wVCNAQB2MgeCCglykPh3-7" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="1360" y="220" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wVCNAQB2MgeCCglykPh3-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+        <mxCell id="wVCNAQB2MgeCCglykPh3-8" value="Quản lý sự kiện" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="1360" y="1180" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wVCNAQB2MgeCCglykPh3-9" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
@@ -3908,6 +3908,18 @@
           <mxGeometry x="0.0058" y="-1" relative="1" as="geometry">
             <mxPoint x="93" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNrXmWczBaX0dPVNwXD-1" value="" style="endArrow=classic;html=1;rounded=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oCUN7LAmR5rrbrn8Ng5r-9" target="wVCNAQB2MgeCCglykPh3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1020" as="sourcePoint" />
+            <mxPoint x="1610" y="1264" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNrXmWczBaX0dPVNwXD-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1320" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
