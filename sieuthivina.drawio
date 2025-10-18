@@ -3032,7 +3032,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="4293" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2560" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3322,6 +3322,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="947jBGfbJ25hqPlVF7Nf-1" value="&lt;font&gt;Thêm sửa xóa mềm, tìm kiếm phân trang&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+          <mxGeometry x="480" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="9JmkoVvxqO1XfpRYb6TH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" parent="1" source="oTyJFMXPl2CHeaA-hHHu-3" target="oTyJFMXPl2CHeaA-hHHu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3422,6 +3425,12 @@
             <Array as="points">
               <mxPoint x="1110" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHfZzQsAIDbZWS6PyWw_-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="20" as="sourcePoint" />
+            <mxPoint x="800" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
