@@ -3042,7 +3042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="5679" dy="3585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3430,7 +3430,7 @@
         <mxCell id="gmTCSqqXLTrXM4WVkW0J-1" value="Cập nhật số lượng, thông báo" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="720" y="1560" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gmTCSqqXLTrXM4WVkW0J-2" value="Xử lý xự cố&amp;nbsp;xác thực tài khoản&amp;nbsp; theo yêu cầu" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
+        <mxCell id="gmTCSqqXLTrXM4WVkW0J-2" value="Xử lý xự cố&amp;nbsp;xác thực tài khoản theo yêu cầu, lịch sử thanh toán" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="aOmvAA7ryTLkOCwz1_p--1">
           <mxGeometry x="900" y="1560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gmTCSqqXLTrXM4WVkW0J-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aOmvAA7ryTLkOCwz1_p--1" source="wVCNAQB2MgeCCglykPh3-12" target="gmTCSqqXLTrXM4WVkW0J-1">
