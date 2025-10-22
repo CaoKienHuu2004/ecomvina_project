@@ -3042,7 +3042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="4870" dy="3182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5679" dy="3585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3392,7 +3392,7 @@
             <mxPoint x="590" y="1915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvomZsIqWP0YpgVEQOU1-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="aOmvAA7ryTLkOCwz1_p--1" source="wVCNAQB2MgeCCglykPh3-9" target="NvomZsIqWP0YpgVEQOU1-3" edge="1">
+        <mxCell id="NvomZsIqWP0YpgVEQOU1-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.099;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aOmvAA7ryTLkOCwz1_p--1" source="wVCNAQB2MgeCCglykPh3-9" target="NvomZsIqWP0YpgVEQOU1-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="868" y="1710" as="sourcePoint" />
             <mxPoint x="740" y="1955" as="targetPoint" />
