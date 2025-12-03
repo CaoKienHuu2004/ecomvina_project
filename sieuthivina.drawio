@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2" pages="10">
   <diagram id="YeK0FKZC7QRVEK37-j8t" name="SIEUTHIVINA-V2-ERD-LV1">
     <mxGraphModel dx="2560" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5586,7 +5586,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="5452" dy="3474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2677" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6043,7 +6043,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NEOecuGW0-YejUzJtsco-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="400" width="570" x="270" y="40" as="geometry" />
+          <mxGeometry height="320" width="560" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" value="Khách hàng" vertex="1">
+          <mxGeometry height="70" width="97.22" x="290" y="312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-6" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" value="Quản trị viên" vertex="1">
+          <mxGeometry height="75" width="80.64" x="490" y="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.storage;" value="Cơ sở dữ liệu" vertex="1">
+          <mxGeometry height="110" width="82.5" x="670" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" value="Máy chủ" vertex="1">
+          <mxGeometry height="102.6" width="138.65" x="360" y="147.4" as="geometry" />
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-14" edge="1" parent="1" source="2cLllaNbg4acVm-Box_9-13" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.025;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" target="2cLllaNbg4acVm-Box_9-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="260" as="sourcePoint" />
+            <mxPoint x="550" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-15" edge="1" parent="1" source="2cLllaNbg4acVm-Box_9-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.484;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.097;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" target="2cLllaNbg4acVm-Box_9-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="260" as="sourcePoint" />
+            <mxPoint x="550" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2cLllaNbg4acVm-Box_9-16" edge="1" parent="1" source="2cLllaNbg4acVm-Box_9-6" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.879;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" target="2cLllaNbg4acVm-Box_9-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="352" as="sourcePoint" />
+            <mxPoint x="401" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
