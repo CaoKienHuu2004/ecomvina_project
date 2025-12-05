@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4" pages="10">
   <diagram id="YeK0FKZC7QRVEK37-j8t" name="SIEUTHIVINA-V2-ERD-LV1">
-    <mxGraphModel dx="1801" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iKWjYTdknAhzDh0sPS1I-103" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="magiamgia" vertex="1">
-          <mxGeometry height="60" width="200" x="320" y="-320" as="geometry">
+          <mxGeometry height="60" width="200" x="40" y="-300" as="geometry">
             <mxRectangle height="30" width="100" x="-200" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -350,10 +350,10 @@
         <mxCell id="iKWjYTdknAhzDh0sPS1I-107" edge="1" parent="1" source="iKWjYTdknAhzDh0sPS1I-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startSize=8;endSize=8;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" target="iKWjYTdknAhzDh0sPS1I-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKWjYTdknAhzDh0sPS1I-108" edge="1" parent="1" source="iKWjYTdknAhzDh0sPS1I-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;startSize=8;endSize=8;" target="iKWjYTdknAhzDh0sPS1I-95">
+        <mxCell id="iKWjYTdknAhzDh0sPS1I-108" edge="1" parent="1" source="iKWjYTdknAhzDh0sPS1I-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;startSize=8;endSize=8;" target="iKWjYTdknAhzDh0sPS1I-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="-275" />
+              <mxPoint x="260" y="-255" />
               <mxPoint x="260" y="-125" />
             </Array>
           </mxGeometry>
