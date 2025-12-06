@@ -6626,7 +6626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gWiiuJt0ENf75gLSpyZl" name="SIEUTHIVINA-V2-TONGQUAN">
-    <mxGraphModel dx="1233" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6662,6 +6662,12 @@
             <mxPoint x="350" y="352" as="sourcePoint" />
             <mxPoint x="401" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2DcIitZ8TUV3FsdB9ZE3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="600" x="120" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2DcIitZ8TUV3FsdB9ZE3-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="sieuthivina.com" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
