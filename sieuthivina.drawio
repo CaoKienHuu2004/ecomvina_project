@@ -6108,7 +6108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="3967" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2975" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6922,11 +6922,11 @@
         <mxCell id="gARH5Zkl962W5LGgZB6o-45" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Quản trị viên" vertex="1">
           <mxGeometry height="160" width="80" x="-1640" y="1880" as="geometry" />
         </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Đăng ký" vertex="1">
+        <mxCell id="gARH5Zkl962W5LGgZB6o-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Thống kê, báo cáo" vertex="1">
           <mxGeometry height="80" width="160" x="-800" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="gARH5Zkl962W5LGgZB6o-47" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font&gt;Tìm kiếm, lọc sản phẩm theo danh mục, thương hiệu&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-1200" y="1600" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1230" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="gARH5Zkl962W5LGgZB6o-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Tra cứu đơn hàng" vertex="1">
           <mxGeometry height="80" width="160" x="-800" y="2440" as="geometry" />
@@ -6964,7 +6964,7 @@
         <mxCell id="gARH5Zkl962W5LGgZB6o-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Quản lý sản phẩm&lt;div&gt;yêu thích&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-1440" y="2080" as="geometry" />
         </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Quản lý mã giảm giá" vertex="1">
+        <mxCell id="gARH5Zkl962W5LGgZB6o-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Quản lý đơn hàng" vertex="1">
           <mxGeometry height="80" width="160" x="-1440" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="gARH5Zkl962W5LGgZB6o-61" edge="1" parent="1" source="gARH5Zkl962W5LGgZB6o-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" target="gARH5Zkl962W5LGgZB6o-47">
@@ -7195,6 +7195,14 @@
         <mxCell id="gARH5Zkl962W5LGgZB6o-102" connectable="0" parent="gARH5Zkl962W5LGgZB6o-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry relative="1" x="0.0084" y="-2" as="geometry">
             <mxPoint x="1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gARH5Zkl962W5LGgZB6o-103" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;font&gt;Tìm kiếm, lọc sản phẩm theo danh mục, thương hiệu&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-1030" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="gARH5Zkl962W5LGgZB6o-104" edge="1" parent="1" source="gARH5Zkl962W5LGgZB6o-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" target="gARH5Zkl962W5LGgZB6o-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1085" y="1640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
