@@ -6030,7 +6030,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9XuD5jT4_anxoHCpuCQ" name="SIEUTHIVINA-V2-USECASE">
-    <mxGraphModel dx="3782" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4169" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6722,30 +6722,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-530" y="1137" as="sourcePoint" />
             <mxPoint x="-410" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-22" edge="1" parent="1" source="gARH5Zkl962W5LGgZB6o-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endSize=8;endArrow=none;endFill=0;fontSize=15;startArrow=classicThin;startFill=1;" target="gcte7ZzC8KIUgEM0Ps_v-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-685" y="654" as="sourcePoint" />
-            <mxPoint x="-930" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-23" connectable="0" parent="gARH5Zkl962W5LGgZB6o-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0084" y="-2" as="geometry">
-            <mxPoint x="-9" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-26" edge="1" parent="1" source="gARH5Zkl962W5LGgZB6o-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.676;exitY=0.028;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endSize=8;endArrow=none;endFill=0;fontSize=15;startArrow=classicThin;startFill=1;exitPerimeter=0;" target="gcte7ZzC8KIUgEM0Ps_v-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-820" y="750" as="sourcePoint" />
-            <mxPoint x="-580" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gARH5Zkl962W5LGgZB6o-27" connectable="0" parent="gARH5Zkl962W5LGgZB6o-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0084" y="-2" as="geometry">
-            <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gARH5Zkl962W5LGgZB6o-29" edge="1" parent="1" source="gARH5Zkl962W5LGgZB6o-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endSize=8;endArrow=none;endFill=0;fontSize=15;startArrow=classicThin;startFill=1;" target="gcte7ZzC8KIUgEM0Ps_v-24">
