@@ -6265,7 +6265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gcte7ZzC8KIUgEM0Ps_v-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1200" width="880" x="-1480" y="120" as="geometry" />
+          <mxGeometry height="1080" width="880" x="-1480" y="120" as="geometry" />
         </mxCell>
         <mxCell id="gcte7ZzC8KIUgEM0Ps_v-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Khách hàng" vertex="1">
           <mxGeometry height="160" width="80" x="-520" y="520" as="geometry" />
